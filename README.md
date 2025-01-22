@@ -1,3 +1,12 @@
+Updated code for compatibility with Python 3.10
+This work is based on the original implementation and documentation done by Juan Ruiz-Rosero, to whom the initial development credit belongs. As the versions of the graphical libraries (such as Matplotlib) and the Python environment have evolved, adjustments were made to ensure code compatibility with Python 3.10 and the latest versions of the dependencies.
+The changes made are primarily technical and do not change the core functionality of the code. These updates include:
+Syntax adjustments to accommodate Python 3.10.
+Updated versions of graphical libraries, such as Matplotlib, to avoid conflicts and take advantage of performance and security improvements.
+Minor code fixes to maintain compatibility with new versions of dependencies.
+It should be noted that this project is open source, and the changes made respect the license and terms under which the original work is distributed. We thank Juan Ruiz-Rosero for his initial contribution, which has served as the basis for this update.
+Note on the use of the code
+Being an open source project, the community is invited to review, improve and contribute to the code, always respecting the original credits and license. The changes made in this update are available for use and distribution under the same terms.
 # ScientoPy
 
 ScientoPy is a open-source Python based scientometric analysis tool.
